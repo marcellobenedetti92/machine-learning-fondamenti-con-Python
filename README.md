@@ -1,2 +1,2 @@
-# machine-learning-fondamenti
-Progetto finale del corso di Fondamenti di ML all'interno del Data Science Professional Path di ProfessionAI
+# machine-learning-fondamenti-con-Python
+Progetto finale del corso di Fondamenti di ML con Python all'interno del Data Science Professional Path di ProfessionAI
